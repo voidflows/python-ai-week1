@@ -1,0 +1,4 @@
+.venv/
+python-ai-week1/
+__pycache__/
+*.pyc

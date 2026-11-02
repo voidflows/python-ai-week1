@@ -7,3 +7,5 @@ print("Goal : AI Enginner")
 name = "Trisha Mitra"
 print(f'My name is {name}')
 print(type(name)) #type() = says which data type it is 
+
+print("Rahul Mondal")

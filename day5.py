@@ -71,6 +71,16 @@ print(names) # ['A', 'Ravi', 'Karthik']
 names.sort(reverse=True)
 print(names) # ['Ravi', 'Karthik', 'A']
 
+#Tuples = Unlike lists,tuples are immutable but ordered.It has only two methods,i.e,count() and index().It is denoted by ()
+
+t =() #Empty tuple
+tup = (1,) #If we want to add only a single element then need to give a coma
+print(type(t))
+
+nums = (10,20,10,40,60,80)
+print(nums.count(10))
+print(nums.index(40))
+
 
 
 

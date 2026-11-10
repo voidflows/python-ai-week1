@@ -1,0 +1,20 @@
+{
+    "next_id": 4,
+    "tasks": [
+        {
+            "id": 1,
+            "title": "Learning Python",
+            "completed": false
+        },
+        {
+            "id": 2,
+            "title": "Learning AI",
+            "completed": false
+        },
+        {
+            "id": 3,
+            "title": "Learning ML",
+            "completed": false
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "transactions": [
+        {
+            "type": "income",
+            "amount": 10000.0,
+            "category": "Gym",
+            "description": "Gym Trainer"
+        },
+        {
+            "type": "expense",
+            "amount": 2000.0,
+            "category": "Coaching",
+            "description": "Money given to tution teachers"
+        }
+    ]
+}

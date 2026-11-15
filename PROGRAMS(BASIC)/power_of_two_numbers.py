@@ -1,5 +1,7 @@
 #Approach 1
 
+# Syntax = lambda arguments: expression
+
 n = int(input("Enter any number : "))
 
 power = lambda x : 2**x

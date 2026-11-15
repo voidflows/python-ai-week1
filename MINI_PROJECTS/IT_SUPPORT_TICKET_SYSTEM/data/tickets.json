@@ -1,0 +1,17 @@
+[
+    {
+        "ticket_id": 1001,
+        "employee_name": "Rahul Mondal",
+        "title": "Laptop keyboard not working",
+        "priority": "High",
+        "status": "Open",
+        "assigned_to": "Ganesh Nale"
+    },
+    {
+        "ticket_id": 1002,
+        "employee_name": "Trisha Mitra",
+        "title": "MS Teams not working",
+        "priority": "Medium",
+        "status": "Open"
+    }
+]
